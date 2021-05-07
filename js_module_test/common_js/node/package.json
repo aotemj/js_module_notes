@@ -1,10 +1,11 @@
 {
-  "name": "node",
+  "name": "commonjs_node",
   "version": "1.0.0",
-  "description": "",
+  "description": "commonjs 服务器实现",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "node app.js"
   },
   "keywords": [],
   "author": "",
