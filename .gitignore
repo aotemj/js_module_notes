@@ -2,3 +2,4 @@
 /node_modules/
 /js_module_test/**/*/node_modules
 /**/*/dist
+/**/*/build
